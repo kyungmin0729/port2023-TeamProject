@@ -1,6 +1,11 @@
-# YeohaengGalkka-Project
-여행갈까 팀프로젝트
-https://www.figma.com/file/its56x9luMI8zbxJbSnrC7/%EC%97%AC%ED%96%89%EA%B0%88%EA%B9%8C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?type=design&node-id=169%3A253&mode=design&t=nFoDx4MDHy6aDsLi-1
+# 프로젝트 명
 
+- 숙박 예약 기능 여행갈까 팀프로젝트
 
-https://www.figma.com/proto/its56x9luMI8zbxJbSnrC7/%EC%97%AC%ED%96%89%EA%B0%88%EA%B9%8C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?page-id=169%3A253&type=design&node-id=171-271&viewport=-1946%2C-129%2C0.54&t=jGjZ0RSXRdZ66MNf-1&scaling=contain&mode=design
+## 프로젝트 개요
+
+- 카페24, 고도몰, 메이크샵, 아임웹 등 쇼핑몰 솔루션 기반으로 로그인/회원가입, 결제 및 예약 서비스, 어드민 페이지 등 숙박 예약 기능들이 매력적으로 느껴져서 Springboot를 활용하여 팀 프로젝트 소재로 선정하였습니다.
+
+## 기술 스택
+
+- Springboot, JPA, HTML, CSS3, JS, Oracle, Gradle, Git, Notion
