@@ -1,9 +1,3 @@
-# 프로젝트 명
-
-숙박 예약 기능 여행갈까 팀프로젝트
-
-## 프로젝트 개요
-
 <img width="1530" alt="구현1" src="./img/1.png">
 <img width="1530" alt="구현2" src="./img/16.png">
 <img width="1530" alt="구현3" src="./img/2.png">
